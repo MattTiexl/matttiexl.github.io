@@ -1632,6 +1632,14 @@ button {
 		text-transform: uppercase;
 	}
 
+	#footer .image-credit {
+		font-size: 0.65rem;
+		letter-spacing: 0.05rem;
+		opacity: 0.75;
+		margin: 0.5rem 0 0 0;
+		text-transform: none;
+	}
+
 	body.is-article-visible #footer {
 		-moz-transform: scale(0.95);
 		-webkit-transform: scale(0.95);
